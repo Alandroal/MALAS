@@ -17,8 +17,7 @@ This project implements a browser-based multi-agent legal advisory service (Mala
     *   `Legal Advisor`: Client interaction, coordination.
     *   `Labour Law Expert`: International Civil Servant Labour Law analysis (uses RAG).
     *   `Civil Law Expert`: Portuguese Civil Law analysis (uses RAG).
-    *   `Fiscal Law Expert`: Portuguese Fiscal Law analysis (uses RAG).
-    *   `Legal Drafter`: Compiles analyses into final document.
+    *   `Fiscal Law Expert`: Portuguese Fiscal Law analysis (uses RAG).    *   
 
 
 # --- Project Structure ---
