@@ -1,0 +1,11 @@
+
+ # .watchfiles.toml
+ignore_paths = [
+    ".*",
+    "__pycache__",
+    ".*/__pycache__",
+    "malas", # Or your venv directory name
+    "backend/data/vector_db",
+]
+
+ 
